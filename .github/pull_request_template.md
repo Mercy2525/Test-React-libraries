@@ -23,7 +23,9 @@ Fixes: [Jira ticket or Issue #]
 
 ## 📸 Screenshots (if applicable)
 
-<!-- Attach before/after screenshots for UI changes -->
+<!-- Attach before/after screenshots fo
+
+r UI changes -->
 
 ---
 
